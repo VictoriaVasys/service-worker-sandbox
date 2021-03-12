@@ -39,7 +39,7 @@
     "mineral-ui-tokens": "^0.3.0",
     "react-emotion": "^9.2.4",
     "react": "^16.4.2",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.4.2",
     "resolve": "1.6.0",
     "style-loader": "0.19.0",
